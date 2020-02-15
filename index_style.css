@@ -277,6 +277,12 @@ margin:auto;
 
    
 }
+@media screen and (min-width: 600px) {
+    .navbar  {
+color: yellow;
+
+    }
+  }
 
 
 
